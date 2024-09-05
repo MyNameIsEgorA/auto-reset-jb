@@ -24,3 +24,7 @@ chmod +x reset.sh
 ./install_deps.sh
 ./reset.sh
 ```
+
+
+##### Note
+This repo, as you may have noticed, is created for debian-like Linux. If you fork this script for other systems, then make a pull request or contact me in tg

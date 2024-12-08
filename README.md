@@ -1,3 +1,7 @@
+UPD: the deps-repo was blocked
+
+If u need any info about this project u can contact me
+
 # auto-reset-jb
 
 ### Disclaimer 
